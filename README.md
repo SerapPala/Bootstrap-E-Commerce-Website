@@ -1,2 +1,2 @@
 # Bootstrap-E-Commerce-Website
-Bootstrap kullanılmıştır. Projede Gulp taskları yer almaktadır.
+Bootstrap ve sass kullanılarak oluşturulmuştur. Projede Gulp taskları yer almaktadır.
